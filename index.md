@@ -1,6 +1,5 @@
-Hello World
+Welcome
+to cyril612's page.
 
-![image](https://via.placeholder.com/500)
-
-- [x] This is a complete item
-- [ ] This is an incomplete item
+- [x] Set up page
+- [ ] Do something useful
